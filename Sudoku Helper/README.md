@@ -5,7 +5,7 @@
 
 This Sudoku helper is a program that can be run in either a python shell or the command line. It uses two tactics, the "naked single" and the "hidden single" to attempt to solve all possible tiles on a given sudoku board. The program parses "boards" using .txt files of the format:
 
-'''
+```
 1..5..2..
 
 2.3.1....
@@ -23,7 +23,7 @@ This Sudoku helper is a program that can be run in either a python shell or the 
 ...7.....
 
 ......1..
-'''
+```
 
 This program uses the TKinter module for python to provide a graphics interface for the helper, visualizing the possible numbers for each grid element as it narrows down the choices and solves the board.
 
