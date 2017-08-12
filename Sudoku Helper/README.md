@@ -7,13 +7,21 @@ This Sudoku helper is a program that can be run in either a python shell or the 
 
 '''
 1..5..2..
+
 2.3.1....
+
 .5..9..3.
+
 ..7.6....
+
 ...8..4.1
+
 9..2...9.
+
 65.3..8..
+
 ...7.....
+
 ......1..
 '''
 
