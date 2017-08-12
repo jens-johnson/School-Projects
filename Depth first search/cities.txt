@@ -1,0 +1,15 @@
+# A list of simple city distances in miles. This file is simplified as if
+# the only roads that connect any two places directly are listed below
+
+Denver,Chicago,1003
+Chicago,Minneapolis,409
+Chicago,Des Moines,332
+Denver,Des Moines,671
+Des Moines,Minneapolis,244
+Omaha,Des Moines,138
+Denver,Omaha,537
+Omaha,Minneapolis,381
+Omaha,Kansas City,185
+Kansas City,Dallas,509
+Kansas City,Denver,603
+Kansas City,Chicago,528
