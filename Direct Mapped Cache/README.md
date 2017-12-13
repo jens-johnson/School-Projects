@@ -5,7 +5,7 @@
 
 This project simulates a direct mapped 64B cache that utilizes simple population and eviction principles. Using command actions like 'w', 'r', and 'p', a user can write and read blocks from the cache, and print the contents of the cache. A sample command action sequence for our cache is as follows:
 
-```c
+```
 Enter 'r' for read, 'w' for write, 'p' to print, 'q' to quit: w
 Enter 32-bit unsigned hex address: 0x0
 Enter 32-bit unsigned hex value: 0xaabb
