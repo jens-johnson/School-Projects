@@ -23,12 +23,11 @@ We use a command line input with a text file containing the phrases we want to s
 
 Where our final looks like:
 
-`
-number of phrases
-phrase 1
-phrase 2
-...
-phrase n
-`
+
+`number of phrases`
+`phrase 1`
+`phrase 2`
+`...`
+`phrase n`
 
 And output whether or not we can word break each string, printing the break if we can.
